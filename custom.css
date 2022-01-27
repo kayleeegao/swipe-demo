@@ -1,0 +1,33 @@
+#section1 {
+    background-image: url(./images/beyourself2021.png), url(./images/plane.gif);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top center,top left;
+    background-size: 100% auto, 100% auto;
+}
+
+#section2 {
+    background-image: url(./images/p2_background.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% auto;
+}
+
+#square_section {
+    background-image: url(./images/square_background.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% auto;
+}
+
+
+#model {
+    float: right;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
